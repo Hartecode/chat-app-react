@@ -1,0 +1,7 @@
+#chat {
+	overflow-y: scroll;
+    height: 500px;
+    border: 1px solid;
+    border-radius: 10px;
+    list-style: none;
+}
